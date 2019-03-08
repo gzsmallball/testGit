@@ -13,3 +13,5 @@ add shortcut 3
 create a new branch is quick && simple.
 
 fix bug-101
+
+fix bug-102
