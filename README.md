@@ -1,3 +1,3 @@
 ### code area 
 
-hellow git!
+hello git!
