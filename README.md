@@ -10,4 +10,4 @@ add shortcut 2
 
 add shortcut 3
 
-create a new branch is quick & simple.
+create a new branch is quick AND simple.
